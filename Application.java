@@ -11,3 +11,13 @@ public class Main {
     }
   }
 }
+
+//Code change done By Fraha on April 10,2023
+
+ public void howToDoInJava_method3() {
+        System.out.println("how to do");
+        while (true) {
+            return;
+        }
+     System.out.println("in java");
+	}
