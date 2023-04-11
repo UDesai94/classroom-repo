@@ -12,6 +12,24 @@ public class Main {
   }
 }
 
+#Feature202 has been changed by Satish on April 10,2023
+
+public void howToDoInJava_method2() 
+{
+  System.out.println("how to do");
+ 
+  if (true) 
+  {
+    return;
+  }
+  else
+  {
+    return;
+  }
+ 
+  System.out.println("in java");
+}
+
 //Code change done By Fraha on April 10,2023
 
  public void howToDoInJava_method3() {
@@ -21,3 +39,4 @@ public class Main {
         }
      System.out.println("in java");
 	}
+
